@@ -66,6 +66,7 @@
 	- Books
 		- [Free Programming Books](https://github.com/vhf/free-programming-books)
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
+		- [Webdevelopment Books](https://github.com/eriwin/awesome-webdev-books)
 	- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 	- [Conferences](https://github.com/RichardLitt/awesome-conferences)
 	- [Continuous Delivery](https://github.com/itech001/ciandcd)
