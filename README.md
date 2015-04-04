@@ -1,7 +1,6 @@
 # Awesome Awesomeness
 
-A curated list of amazingly awesome awesomeness.
-Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
+**A curated list of amazingly awesome awesomeness.**
 
 - Programming Languages
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
@@ -92,6 +91,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
 		- [by @jnv](https://github.com/jnv/lists)
+		- [by @n1trux](https://github.com/n1trux/awesome-awesomeness) (forked from bayandin/awesome-awesomeness)
 		- [by @sindresorhus](https://github.com/sindresorhus/awesome)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
