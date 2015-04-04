@@ -89,6 +89,7 @@
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
+	- [LEGO](https://github.com/adius/awesome-lego)
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
 		- [by @jnv](https://github.com/jnv/lists)
