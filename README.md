@@ -74,6 +74,7 @@
 	- [Creative Commons Media](https://github.com/shime/creative-commons-media)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
 	- [Database](https://github.com/numetriclabz/awesome-db)
+	 	- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 	- [Datasets](https://github.com/caesar0301/awesome-public-datasets)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [Docker](https://github.com/veggiemonk/awesome-docker)
