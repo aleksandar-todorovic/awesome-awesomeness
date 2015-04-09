@@ -89,6 +89,7 @@
 	- [Games](https://github.com/leereilly/games)
 	- [GIF](https://github.com/Kikobeats/awesome-gif)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
+	- [Hacking](https://github.com/carpedm20/awesome-hacking)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
