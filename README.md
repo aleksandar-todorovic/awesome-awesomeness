@@ -53,6 +53,7 @@
 
 - General
 	- [.htaccess](https://github.com/phanan/htaccess)
+	- [Accessibility (a11y)](https://github.com/brunopulis/awesome-a11y)
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
